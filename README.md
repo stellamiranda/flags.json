@@ -1,2 +1,4 @@
 # flags.json
-world country flags + correspond cn name
+A world country flags + correspond cn name json file.
+
+All img source from [wikipedia.org](https://wikipedia.org).
